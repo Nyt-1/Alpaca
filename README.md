@@ -1,6 +1,6 @@
-# Alpaca Gradient Boosting
+# Alpaca Trading Simulation
 
-Pulls 1-minute TSLA bars from the Alpaca market data API, builds lookback-window features, and trains a `HistGradientBoostingClassifier` to predict short-horizon upward moves/breakouts. Includes a simple take-profit / time-stop backtest for picking a probability threshold.
+This repo is a copy of a personal project.
 
 ## Setup
 
